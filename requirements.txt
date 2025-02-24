@@ -1,0 +1,5 @@
+numpy==1.23.5
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+tensorflow==2.7.0
+protobuf==3.20.3
